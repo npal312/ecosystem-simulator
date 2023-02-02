@@ -1,0 +1,18 @@
+Trophic Level 4
+clavichordist animal carnivore cautionary
+
+Trophic Level 3
+cautionary animal carnivore indult
+
+Trophic Level 2
+indult animal herbivore sedentarily,sulphoxyphosphate,springed,unparched,triggerfish
+
+Trophic Level 1
+transcendingly plant none 
+unparched plant none 
+squabbly plant none 
+triggerfish plant none 
+springed plant none 
+sedentarily plant none 
+sulphoxyphosphate plant none 
+

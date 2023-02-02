@@ -1,0 +1,11 @@
+Links: 7 Species: 10 Connectance: 0.15555556118488312
+Links: 7 Species: 11 Connectance: 0.12727272510528564
+Links: 9 Species: 12 Connectance: 0.13636364042758942
+Links: 18 Species: 13 Connectance: 0.23076923191547394
+Links: 22 Species: 14 Connectance: 0.24175824224948883
+Links: 25 Species: 15 Connectance: 0.2380952388048172
+Links: 26 Species: 16 Connectance: 0.21666666865348816
+Links: 27 Species: 17 Connectance: 0.1985294073820114
+Links: 35 Species: 18 Connectance: 0.22875817120075226
+Links: 39 Species: 19 Connectance: 0.22807016968727112
+Links: 41 Species: 20 Connectance: 0.21578946709632874

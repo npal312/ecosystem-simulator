@@ -1,0 +1,28 @@
+Trophic Level 4
+clavichordist animal carnivore cautionary,calciphobe,riming,nonsacramental,beleave
+cyclas animal carnivore cautionary,bailiffwick,reinvestigating,nonsacramental
+
+Trophic Level 3
+cautionary animal carnivore indult,fallowist,ephippial,goodeniaceae
+reinvestigating animal omnivore indult,fallowist,goodeniaceae
+nonsacramental animal omnivore indult,ephippial
+bailiffwick animal carnivore ephippial,indult,goodeniaceae
+
+Trophic Level 2
+indult animal herbivore sedentarily,sulphoxyphosphate,springed,unparched,triggerfish,squilgee,shoe,sinuosely
+ephippial animal herbivore triggerfish,sedentarily,sulphoxyphosphate,transcendingly,squabbly,tragedianess,sinuosely
+ix animal herbivore tragedianess,triggerfish,springed,sulphoxyphosphate,vulpeculid
+
+Trophic Level 1
+transcendingly plant none 
+unparched plant none 
+squabbly plant none 
+triggerfish plant none 
+springed plant none 
+sedentarily plant none 
+sulphoxyphosphate plant none 
+tragedianess plant none 
+vulpeculid plant none 
+shoe plant none 
+washerwife plant none 
+
